@@ -1,1 +1,1 @@
-let fruta = "tomate"
+let frutas = "tomate"
