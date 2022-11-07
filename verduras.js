@@ -1,1 +1,1 @@
-let verdura = "Lechuga"
+let verdura = "Lechuga y remolacha"
